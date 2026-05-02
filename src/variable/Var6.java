@@ -2,7 +2,7 @@ package variable;
 
 public class Var6 {
 
-    public static void main(String[] args) {
+    static void main() {
         int a;
         //System.out.println(a);
     }

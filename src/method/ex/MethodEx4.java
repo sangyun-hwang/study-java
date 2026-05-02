@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MethodEx4 {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int balance = 0;
         Scanner scanner = new Scanner(System.in);
 

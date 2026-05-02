@@ -2,7 +2,7 @@ package array;
 
 public class Array1Ref4 {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int[] students = {90, 80, 70, 60, 50};
 
         //변수 값 사용

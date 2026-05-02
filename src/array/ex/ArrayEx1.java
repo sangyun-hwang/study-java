@@ -1,7 +1,7 @@
 package array.ex;
 
 public class ArrayEx1 {
-    public static void main(String[] args) {
+    static void main() {
         int student1 = 90;
         int student2 = 80;
         int student3 = 70;

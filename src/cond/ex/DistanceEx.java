@@ -2,7 +2,7 @@ package cond.ex;
 
 public class DistanceEx {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int distance = 80;
 
         if (distance <= 1) {

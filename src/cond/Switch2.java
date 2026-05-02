@@ -2,7 +2,7 @@ package cond;
 
 public class Switch2 {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int grade = 1;
 
         int coupon;

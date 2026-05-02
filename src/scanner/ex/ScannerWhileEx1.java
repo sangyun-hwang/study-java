@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ScannerWhileEx1 {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
         while (true) {

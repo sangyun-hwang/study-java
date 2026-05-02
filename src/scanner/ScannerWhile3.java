@@ -3,7 +3,7 @@ package scanner;
 import java.util.Scanner;
 
 public class ScannerWhile3 {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
         int sum = 0;

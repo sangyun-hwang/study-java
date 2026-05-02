@@ -2,7 +2,7 @@ package method;
 
 public class Method1Ref {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         //계산1
         int sum1 = add(5, 10);
         System.out.println("결과1 출력: " + sum1);

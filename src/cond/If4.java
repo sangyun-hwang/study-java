@@ -2,8 +2,8 @@ package cond;
 
 public class If4 {
 
-    public static void main(String[] args) {
-        int age  = 15;
+    static void main(String[] args) {
+        int age = 15;
 
         if (age <= 7) {
             System.out.println("미취학");

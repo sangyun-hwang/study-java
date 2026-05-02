@@ -2,7 +2,7 @@ package variable;
 
 public class Var7 {
 
-    public static void main(String[] args) {
+    static void main() {
         int a = 100; //정수
         double b = 10.5; //실수
         boolean c = true; //불리언(boolean) true, false 입력 가능

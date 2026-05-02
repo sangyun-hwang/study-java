@@ -1,7 +1,7 @@
 package method.ex;
 
 public class MethodEx3Ref {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int balance = 10000;
 
         balance = deposit(balance, 1000);

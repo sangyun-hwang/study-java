@@ -2,7 +2,7 @@ package array;
 
 public class ArrayDi4 {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         // 2x3 2차원 배열을 만든다.
         int[][] arr = new int[10][10];
 

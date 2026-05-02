@@ -2,7 +2,7 @@ package cond;
 
 public class If5 {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int price = 10000;
         int age = 10;
         int discount = 0;

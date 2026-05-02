@@ -2,7 +2,7 @@ package cond.ex;
 
 public class GradeSwitchEx {
 
-    public static void main(String[] args) {
+    static void main(String[] args) {
         String grade = "B";
 
         switch (grade) {
